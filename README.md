@@ -18,23 +18,32 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
-.mastering complexity
+
+mastering complexity
+
 Mastering process
+
 Mastering machine
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
- planning - identify the software requirement or purpose and scope.
- requirement analysis - identify the final user specification. 
+
+planning - identify the software requirement or purpose and scope.
+
+requirement analysis - identify the final user specification. 
+
 design - building the framework. 
+
 coding - converting software design into tangible code.
- testing - examine the software for any bugs and glitches
+
+testing - examine the software for any bugs and glitches
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
  changes are hard to incorporate once a phase is complete.
- - Customer feedback comes late, after the product is developed.
- - Testing is done at the end of the development process.
+- Customer feedback comes late, after the product is developed.
+- Testing is done at the end of the development process.
 
 
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
